@@ -18,10 +18,10 @@
 
 <h2 class = "name"> Phone</h2>
 <input class = "code"> <type = "Text" name = "Area code">
-<label class = "area code"> Area code </label>
+<label class = "area code"> Area code </label> 
 <input class = "number"> <type = "text" name = "phone">
 <label class = "Phone number"> Phone number</label>
-</div>
+
 <h2 class = "Name"> Gender</h2>
 <label for = "male" class "radio inline>
 <input type = "radio" name = "gender" value "M"
@@ -29,7 +29,7 @@ id = "male"> Male</label>
 <label for = "Female" class "radio inline>
 <input type = "radio" name = "gender" value "F"
 id = "Female"> Female</label>
-</div>
+
 <h2 class = "name"> Address</h2>
 <input class = "code"> <type = "text" name = "Areacode">
 
